@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T18:35:32 IST" name="Suite" finished-at="2022-06-20T18:35:48 IST" duration-ms="16468">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T18:35:32 IST" name="Test" finished-at="2022-06-20T18:35:48 IST" duration-ms="16468">
+      <class name="TestCases.ParallelTest">
+        <test-method signature="openamazon()[pri:0, instance:TestCases.ParallelTest@35ef1869]" started-at="2022-06-20T18:35:32 IST" name="openamazon" finished-at="2022-06-20T18:35:39 IST" duration-ms="7756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openamazon -->
+        <test-method signature="openchrome()[pri:0, instance:TestCases.ParallelTest@35ef1869]" started-at="2022-06-20T18:35:32 IST" name="openchrome" finished-at="2022-06-20T18:35:42 IST" duration-ms="10556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="openfb()[pri:0, instance:TestCases.ParallelTest@35ef1869]" started-at="2022-06-20T18:35:39 IST" name="openfb" finished-at="2022-06-20T18:35:48 IST" duration-ms="8658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfb -->
+      </class> <!-- TestCases.ParallelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
